@@ -1,8 +1,8 @@
 import img from  './App.css'
 import portada from './assets/portada.jpg'
-import pastas from './assets/pastas.jpg'
+import pastas from './assets/PASTAS2.jpg'
 import salsas from './assets/salsas2.jpg'
-import extras from './assets/extras2.jpg'
+import extras from './assets/extras3.jpg'
 import doc from './assets/pdf.pdf'
 
 function App() {
