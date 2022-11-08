@@ -1,9 +1,9 @@
 import img from  './App.css'
-import portada from './assets/portada.jpg'
-import pastas from './assets/PASTAS2.jpg'
+import portada from './assets/portadaNov.jpg'
+import pastas from './assets/pastasNov.jpg'
 import salsas from './assets/salsas2.jpg'
-import extras from './assets/extras3.jpg'
-import doc from './assets/pdf.pdf'
+import extras from './assets/extrasNov.jpg'
+import doc from './assets/carta.pdf'
 
 function App() {
   return (
